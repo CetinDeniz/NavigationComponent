@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">NavigationComponent</string>
+
+    <string name="home_fragment">Home Fragment</string>
+
+    <string name="fragment_a">Fragment A</string>
+    <string name="fragment_b">Fragment B</string>
+
+    <string name="go_fragment_a">Go Fragment A</string>
+    <string name="go_fragment_b">Go Fragment B</string>
+
+    <string name="go_fragment_x">Go Fragment X</string>
+    <string name="go_fragment_y">Go Fragment Y</string>
+
+    <string name="fragment_x">X Fragment</string>
+    <string name="fragment_y">Y Fragment</string>
+</resources>
